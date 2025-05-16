@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Hay Al Mihrajan, جوان 01, معتمدية المنزه, Tunis, 1082, Tunisia",
+      "fullAddress": "Duluth Street, Payne - Phalen, Saint Paul, Ramsey County, Minnesota, 55106, United States",
       "houseNumber": "Not Available",
-      "postalCode": "1082",
-      "city": "Tunis",
-      "country": "Tunisia",
-      "road": "Not Available",
-      "state": "Tunis",
-      "suburb": "جوان 01",
-      "county": "Not Available",
+      "postalCode": "55106",
+      "city": "Saint Paul",
+      "country": "United States",
+      "road": "Duluth Street",
+      "state": "Minnesota",
+      "suburb": "Payne - Phalen",
+      "county": "Ramsey County",
       "village": "Not Available",
       "landmark": "Not Available",
-      "countryCode": "tn",
+      "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 36.8232,
-      "longitude": 10.1701
+      "latitude": 44.971,
+      "longitude": -93.0498
     }
   ]
 }
