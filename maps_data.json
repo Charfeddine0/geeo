@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "17, Lake Street, Village of Angola, Town of Evans, Erie County, New York, 14006, United States",
-      "houseNumber": "17",
-      "postalCode": "14006",
+      "fullAddress": "Burger King, Silver Star Road, Orange County, Florida, 32808, United States",
+      "houseNumber": "Not Available",
+      "postalCode": "32808",
       "city": "Not Available",
       "country": "United States",
-      "road": "Lake Street",
-      "state": "New York",
+      "road": "Silver Star Road",
+      "state": "Florida",
       "suburb": "Not Available",
-      "county": "Erie County",
-      "village": "Village of Angola",
+      "county": "Orange County",
+      "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 42.6384,
-      "longitude": -79.0278
+      "latitude": 28.5788,
+      "longitude": -81.4396
     }
   ]
 }
