@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Hay Al Mihrajan, جوان 01, معتمدية المنزه, Tunis, 1082, Tunisia",
-      "houseNumber": "Not Available",
-      "postalCode": "1082",
-      "city": "Tunis",
-      "country": "Tunisia",
-      "road": "Not Available",
-      "state": "Tunis",
-      "suburb": "جوان 01",
-      "county": "Not Available",
-      "village": "Not Available",
+      "fullAddress": "17, Lake Street, Village of Angola, Town of Evans, Erie County, New York, 14006, United States",
+      "houseNumber": "17",
+      "postalCode": "14006",
+      "city": "Not Available",
+      "country": "United States",
+      "road": "Lake Street",
+      "state": "New York",
+      "suburb": "Not Available",
+      "county": "Erie County",
+      "village": "Village of Angola",
       "landmark": "Not Available",
-      "countryCode": "tn",
+      "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 36.8232,
-      "longitude": 10.1701
+      "latitude": 42.6384,
+      "longitude": -79.0278
     }
   ]
 }
