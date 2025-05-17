@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Burger King, Silver Star Road, Orange County, Florida, 32808, United States",
+      "fullAddress": "Franklin Avenue, Franklin, Venango County, Pennsylvania, 16323, United States",
       "houseNumber": "Not Available",
-      "postalCode": "32808",
+      "postalCode": "16323",
       "city": "Not Available",
       "country": "United States",
-      "road": "Silver Star Road",
-      "state": "Florida",
+      "road": "Franklin Avenue",
+      "state": "Pennsylvania",
       "suburb": "Not Available",
-      "county": "Orange County",
+      "county": "Venango County",
       "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 28.5788,
-      "longitude": -81.4396
+      "latitude": 41.4013,
+      "longitude": -79.829
     }
   ]
 }
