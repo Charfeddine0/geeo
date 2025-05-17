@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Hay Al Mihrajan, جوان 01, معتمدية المنزه, Tunis, 1082, Tunisia",
+      "fullAddress": "Reno County, Kansas, United States",
       "houseNumber": "Not Available",
-      "postalCode": "1082",
-      "city": "Tunis",
-      "country": "Tunisia",
+      "postalCode": "Not Available",
+      "city": "Not Available",
+      "country": "United States",
       "road": "Not Available",
-      "state": "Tunis",
-      "suburb": "جوان 01",
-      "county": "Not Available",
+      "state": "Kansas",
+      "suburb": "Not Available",
+      "county": "Reno County",
       "village": "Not Available",
       "landmark": "Not Available",
-      "countryCode": "tn",
+      "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 36.8232,
-      "longitude": 10.1701
+      "latitude": 37.751,
+      "longitude": -97.822
     }
   ]
 }
