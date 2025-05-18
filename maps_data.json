@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Lithia Pinecrest Road, Hillsborough County, Florida, 33547, United States",
+      "fullAddress": "Bronx Psychiatric Center, Waters Place, Middletown, The Bronx, Bronx County, New York, 10461, United States",
       "houseNumber": "Not Available",
-      "postalCode": "33547",
-      "city": "Not Available",
+      "postalCode": "10461",
+      "city": "New York",
       "country": "United States",
-      "road": "Lithia Pinecrest Road",
-      "state": "Florida",
+      "road": "Waters Place",
+      "state": "New York",
       "suburb": "Not Available",
-      "county": "Hillsborough County",
+      "county": "Bronx County",
       "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 27.8503,
-      "longitude": -82.1748
+      "latitude": 40.8477,
+      "longitude": -73.8418
     }
   ]
 }
