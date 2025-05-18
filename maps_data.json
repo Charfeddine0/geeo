@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Doughboy, WWI vets, Woodside Avenue, Sunnyside Gardens, Queens, Queens County, New York, 11373, United States",
-      "houseNumber": "Not Available",
-      "postalCode": "11373",
-      "city": "New York",
+      "fullAddress": "Timberview High School, 7700, South Watson Road, Arlington, Tarrant County, Texas, 76002, United States",
+      "houseNumber": "7700",
+      "postalCode": "76002",
+      "city": "Arlington",
       "country": "United States",
-      "road": "Woodside Avenue",
-      "state": "New York",
+      "road": "South Watson Road",
+      "state": "Texas",
       "suburb": "Not Available",
-      "county": "Queens County",
+      "county": "Tarrant County",
       "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 40.7465,
-      "longitude": -73.909
+      "latitude": 32.6217,
+      "longitude": -97.0801
     }
   ]
 }
