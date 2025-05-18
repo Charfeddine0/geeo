@@ -1,21 +1,3 @@
 {
-  "mapsgeo": [
-    {
-      "fullAddress": "Hay Al Mihrajan, جوان 01, معتمدية المنزه, Tunis, 1082, Tunisia",
-      "houseNumber": "Not Available",
-      "postalCode": "1082",
-      "city": "Tunis",
-      "country": "Tunisia",
-      "road": "Not Available",
-      "state": "Tunis",
-      "suburb": "جوان 01",
-      "county": "Not Available",
-      "village": "Not Available",
-      "landmark": "Not Available",
-      "countryCode": "tn",
-      "stateCode": "Not Available",
-      "latitude": 36.8232,
-      "longitude": 10.1701
-    }
-  ]
+  "mapsgeo": []
 }
