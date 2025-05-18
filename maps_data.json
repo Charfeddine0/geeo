@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "Glen Helen Amphitheater, Glen Helen Park Road, San Bernardino County, California, United States",
+      "fullAddress": "Pier 54, Waterfront Trail, West Edge, Belltown, Seattle, King County, Washington, 98174, United States",
       "houseNumber": "Not Available",
-      "postalCode": "Not Available",
-      "city": "Not Available",
+      "postalCode": "98174",
+      "city": "Seattle",
       "country": "United States",
-      "road": "Glen Helen Park Road",
-      "state": "California",
-      "suburb": "Not Available",
-      "county": "San Bernardino County",
+      "road": "Waterfront Trail",
+      "state": "Washington",
+      "suburb": "Belltown",
+      "county": "King County",
       "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 34.2098,
-      "longitude": -117.3997
+      "latitude": 47.6034,
+      "longitude": -122.3414
     }
   ]
 }
