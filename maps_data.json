@@ -1,21 +1,21 @@
 {
   "mapsgeo": [
     {
-      "fullAddress": "11442, Pendleton Pike, Oaklandon, Lawrence, Marion County, Indiana, 46236, United States",
-      "houseNumber": "11442",
-      "postalCode": "46236",
+      "fullAddress": "Glen Helen Amphitheater, Glen Helen Park Road, San Bernardino County, California, United States",
+      "houseNumber": "Not Available",
+      "postalCode": "Not Available",
       "city": "Not Available",
       "country": "United States",
-      "road": "Pendleton Pike",
-      "state": "Indiana",
+      "road": "Glen Helen Park Road",
+      "state": "California",
       "suburb": "Not Available",
-      "county": "Marion County",
+      "county": "San Bernardino County",
       "village": "Not Available",
       "landmark": "Not Available",
       "countryCode": "us",
       "stateCode": "Not Available",
-      "latitude": 39.8685,
-      "longitude": -85.969
+      "latitude": 34.2098,
+      "longitude": -117.3997
     }
   ]
 }
