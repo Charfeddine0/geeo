@@ -84,6 +84,23 @@
       "stateCode": "Not Available",
       "latitude": 30.45,
       "longitude": -81.6624
+    },
+    {
+      "fullAddress": "1017, Tortoise Way, Hart Estates, Jacksonville, Duval County, Florida, 32218, United States",
+      "houseNumber": "1017",
+      "postalCode": "32218",
+      "city": "Jacksonville",
+      "country": "United States",
+      "road": "Tortoise Way",
+      "state": "Florida",
+      "suburb": "Not Available",
+      "county": "Duval County",
+      "village": "Not Available",
+      "landmark": "Not Available",
+      "countryCode": "us",
+      "stateCode": "Not Available",
+      "latitude": 30.45,
+      "longitude": -81.6624
     }
   ]
 }
